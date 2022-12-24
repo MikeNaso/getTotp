@@ -1,9 +1,9 @@
 # getTotp
 I like to use keyboard shortcut, therefore, I developed this script in order to save my TOTP in one place.
 
-I use a Mac in my day to day work,  therefore here some good software in order to better manage key shortcut and much more: Raycast, hammerspoon, expanso, or others
+I use a Mac in my day-to-day work,  therefore here some good software in order to better manage key shortcut and much more: Raycast, hammerspoon, expanso, or others
 
-I like Raycast or hammerspoon (much less options but good for this kind of utilisation)
+I like Raycast or hammerspoon (much fewer options but good for this kind of utilization)
 
 This is the init.lua for hammerspon to associate (ALT/OPTION)+1 (Click on the menu for editing)
 
@@ -17,4 +17,4 @@ ok,result = hs.applescript('do shell script "/usr/bin/python3 ~/getTotp.py"')
 end)
 `````
 
-In Windows you can create a shortcut and associate some key to run it in Linux the same
+In Windows you can create a shortcut and associate some key to run it in Linux the same.
